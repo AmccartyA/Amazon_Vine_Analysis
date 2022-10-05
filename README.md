@@ -5,7 +5,7 @@ For this Project I gathered amazon reviews for current Video Games using their r
  
 ## Results
 We were able to gather over 1 million reviews, but of those reviews very few were Part of the Vine Program.
- ![filters](https://user-images.githubusercontent.com/103524591/194142909-6c7e49a1-916a-4691-a432-a929a4cd9d8b.png)
+![TotalReviews](https://user-images.githubusercontent.com/103524591/194143012-2300f7b4-c147-429e-ac10-37f0d61c7cbf.png)
 
 Based on all the 5-star reviews. A lot of them were actual from non-vine reviewers
  ![non-vine5star](https://user-images.githubusercontent.com/103524591/194142873-26c8e347-aeda-4d26-84ea-c7b44261423e.png)
